@@ -1,0 +1,94 @@
+characters = {
+	PHI_ferdinand_marcos = {
+		name = PHI_ferdinand_marcos
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_PHI_Ferdinand_Marcos"
+				small = "GFX_idea_PHI_ferdinand_marcos"
+			}
+			army = {
+				large = "GFX_Portrait_PHI_Ferdinand_Marcos"
+				small = "GFX_idea_PHI_ferdinand_marcos"
+			}
+			navy = {
+				large = "GFX_Portrait_PHI_Ferdinand_Marcos"
+				small = "GFX_idea_PHI_ferdinand_marcos"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_FERDINAND_MARCOS_DESC"
+			ideology = autdem_controlled_democracy_ideology
+			expire = "1989.9.28.1"
+			id = -1
+			traits = {}
+		}
+	}
+	PHI_hong_sa-ik = {
+		name = PHI_hong_sa-ik
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_PHI_Hong_Sa-ik"
+				small = "GFX_idea_PHI_hong_sa-ik"
+			}
+			army = {
+				large = "GFX_Portrait_PHI_Hong_Sa-ik"
+				small = "GFX_idea_PHI_hong_sa-ik"
+			}
+			navy = {
+				large = "GFX_Portrait_PHI_Hong_Sa-ik"
+				small = "GFX_idea_PHI_hong_sa-ik"
+			}
+		}
+	}
+	PHI_ritsu_ito = {
+		name = PHI_ritsu_ito
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_PHI_Ritsu_Ito"
+				small = "GFX_idea_PHI_ritsu_ito"
+			}
+			army = {
+				large = "GFX_Portrait_PHI_Ritsu_Ito"
+				small = "GFX_idea_PHI_ritsu_ito"
+			}
+			navy = {
+				large = "GFX_Portrait_PHI_Ritsu_Ito"
+				small = "GFX_idea_PHI_ritsu_ito"
+			}
+		}
+	}
+	PHI_toshio_nishimura = {
+		name = PHI_toshio_nishimura
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_PHI_Toshio_Nishimura"
+				small = "GFX_idea_PHI_toshio_nishimura"
+			}
+			army = {
+				large = "GFX_Portrait_PHI_Toshio_Nishimura"
+				small = "GFX_idea_PHI_toshio_nishimura"
+			}
+			navy = {
+				large = "GFX_Portrait_PHI_Toshio_Nishimura"
+				small = "GFX_idea_PHI_toshio_nishimura"
+			}
+		}
+	}
+	PHI_toyoaki_horiuchi = {
+		name = PHI_toyoaki_horiuchi
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_PHI_Toyoaki_Horiuchi"
+				small = "GFX_idea_PHI_toyoaki_horiuchi"
+			}
+			army = {
+				large = "GFX_Portrait_PHI_Toyoaki_Horiuchi"
+				small = "GFX_idea_PHI_toyoaki_horiuchi"
+			}
+			navy = {
+				large = "GFX_Portrait_PHI_Toyoaki_Horiuchi"
+				small = "GFX_idea_PHI_toyoaki_horiuchi"
+			}
+		}
+	}
+}

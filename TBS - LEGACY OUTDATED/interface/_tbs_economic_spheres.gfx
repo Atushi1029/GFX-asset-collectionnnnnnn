@@ -1,0 +1,18 @@
+spriteTypes = {	
+	SpriteType = {
+		name = "GFX_diplo_countrylist_entry_gold"
+		texturefile = "gfx/interface/economic_gui/diplo_countrylist_entry_gold.png"
+	}
+	SpriteType = {
+		name = "GFX_eco_american_economic_sphere"
+		texturefile = "gfx/interface/economic_gui/eco_american_economic_sphere.png"
+	}
+	SpriteType = {
+		name = "GFX_eco_geacps"
+		texturefile = "gfx/interface/economic_gui/eco_geacps.png"
+	}
+	SpriteType = {
+		name = "GFX_eco_zollverein"
+		texturefile = "gfx/interface/economic_gui/eco_zollverein.png"
+	}
+}

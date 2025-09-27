@@ -1,0 +1,25 @@
+
+state = { 
+	id=198
+	name="STATE_198"
+
+	history = { 
+		owner = RPG
+		add_core_of = ROM
+		add_core_of = RPG
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+	}
+
+	provinces = { 
+		6455 9423 9435 
+	}
+	manpower=1893391
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=4.000
+}

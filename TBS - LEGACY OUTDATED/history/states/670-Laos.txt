@@ -1,0 +1,24 @@
+
+state = { 
+	id=670
+	name="STATE_670"
+
+	history = { 
+		owner = LAO
+		add_core_of = LAO
+		victory_points = {
+			1464 5
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 
+		1464 1507 4339 4613 7075 7356 10496 12332 
+	}
+	manpower = 1936647
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

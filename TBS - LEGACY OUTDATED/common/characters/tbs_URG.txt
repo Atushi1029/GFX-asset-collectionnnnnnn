@@ -1,0 +1,50 @@
+characters = {
+	URG_gerardo_cuesta = {
+		name = URG_gerardo_cuesta
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_URG_Gerardo_Cuesta"
+				small = "GFX_idea_URG_gerardo_cuesta"
+			}
+			army = {
+				large = "GFX_Portrait_URG_Gerardo_Cuesta"
+				small = "GFX_idea_URG_gerardo_cuesta"
+			}
+			navy = {
+				large = "GFX_Portrait_URG_Gerardo_Cuesta"
+				small = "GFX_idea_URG_gerardo_cuesta"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_GERARDO_CUESTA_DESC"
+			ideology = grasoc_syndicalism_ideology
+			expire = "1981.9.13.1"
+			id = -1
+			traits = {}
+		}
+	}
+	URG_jorge_pacheco_areco = {
+		name = URG_jorge_pacheco_areco
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_URG_Jorge_Pacheco_Areco"
+				small = "GFX_idea_URG_jorge_pacheco_areco"
+			}
+			army = {
+				large = "GFX_Portrait_URG_Jorge_Pacheco_Areco"
+				small = "GFX_idea_URG_jorge_pacheco_areco"
+			}
+			navy = {
+				large = "GFX_Portrait_URG_Jorge_Pacheco_Areco"
+				small = "GFX_idea_URG_jorge_pacheco_areco"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_JORGE_PACHECO_ARECO_DESC"
+			ideology = liberal_democracy_ideology
+			expire = "1998.7.29.1"
+			id = -1
+			traits = {}
+		}
+	}
+}

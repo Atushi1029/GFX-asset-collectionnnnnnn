@@ -1,0 +1,39 @@
+﻿capital = 43
+#oob = "EMPTY"
+set_cosmetic_tag = HUN_republic
+set_starting_values = yes
+recruit_character = HUN_andras_kun
+recruit_character = HUN_arpad_goncz
+recruit_character = HUN_ferenc_szalasi
+recruit_character = HUN_istvan_horthy
+recruit_character = HUN_janos_kadar
+recruit_character = HUN_otto_von_habsburg
+set_convoys = 20
+add_ideas = {
+	
+}
+set_politics = {
+	ruling_party = social_democracy
+	last_election = "1966.5.16"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+	neo_communism = 0
+	totalitarian_socialism = 36
+	gradual_socialism = 4
+	social_democracy = 22
+	liberal_democracy = 8
+	conservatism = 2
+	authoritarian_democracy = 3
+	paternal_despotism = 2
+	national_corporatism = 3
+	national_socialism = 20
+	ultra_nationalism = 0
+	reactionism = 0
+}
+diplomatic_relation = {
+	country = ROM
+	relation = non_aggression_pact
+	active = yes
+}

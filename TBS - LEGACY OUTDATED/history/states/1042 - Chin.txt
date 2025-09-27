@@ -1,0 +1,22 @@
+
+state = { 
+	id=1042
+	name="STATE_1042"
+
+	history = { 
+		owner = BSL
+		add_core_of = BSL
+		add_claim_by = BPF
+		add_claim_by = BRM
+		victory_points = { 3999 1 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 3999 4454 7122 10033 11966 }
+	manpower = 538000
+	buildings_max_level_factor = 1.000
+	state_category = rural
+	local_supplies=0.000
+}

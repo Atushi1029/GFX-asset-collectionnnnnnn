@@ -1,0 +1,112 @@
+defined_text = {
+	name = GetButtonColor
+	text = {
+		trigger = { THIS = { tag = ROOT } }
+		localization_key = "GFX_diplo_countrylist_entry_gold"
+	}
+	text = {
+		localization_key = "GFX_diplo_countrylist_entry"
+	}
+}
+defined_text = {
+	name = GetEconomicSphereName
+	text = {
+		trigger = { is_in_array = { GER.economic_sphere_members = THIS } }
+		localization_key = GER_zollverein_tt
+	}
+	text = {
+		trigger = { is_in_array = { JAP.economic_sphere_members = THIS } }
+		localization_key = JAP_geacps_tt
+	}
+	text = {
+		trigger = { is_in_array = { USA.economic_sphere_members = THIS } }
+		localization_key = USA_american_economic_sphere_tt
+	}
+	text = {
+		localization_key = GENERIC_econ_sphere_tt
+	}
+}
+defined_text = {
+	name = GetEconomicSphereIcon
+	text = {
+		trigger = { is_in_array = { GER.economic_sphere_members = THIS } }
+		localization_key = "GFX_eco_zollverein"
+	}
+	text = {
+		trigger = { is_in_array = { JAP.economic_sphere_members = THIS } }
+		localization_key = "GFX_eco_geacps"
+	}
+	text = {
+		trigger = { is_in_array = { USA.economic_sphere_members = THIS } }
+		localization_key = "GFX_eco_american_economic_sphere"
+	}
+	text = { localization_key = "GFX_eco_zollverein" }
+}
+defined_text = {
+	name = GetEconomicSphereDesc
+	text = {
+		trigger = { is_in_array = { GER.economic_sphere_members = THIS } }
+		localization_key = GER_zollverein_desc_tt
+	}
+	text = {
+		trigger = { is_in_array = { JAP.economic_sphere_members = THIS } }
+		localization_key = JAP_geacps_desc_tt
+	}
+	text = {
+		trigger = { is_in_array = { USA.economic_sphere_members = THIS } }
+		localization_key = USA_american_economic_sphere_desc_tt
+	}
+	text = { localization_key = GENERIC_econ_sphere_desc_tt }
+}
+defined_text = {
+	name = GetEconomicSpherePostName
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 1 } }
+		}
+		localization_key = eco_sphere_post_1_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 2 } }
+		}
+		localization_key = eco_sphere_post_2_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 3 } }
+		}
+		localization_key = eco_sphere_post_3_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 4 } }
+		}
+		localization_key = eco_sphere_post_4_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 5 } }
+		}
+		localization_key = eco_sphere_post_5_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 6 } }
+		}
+		localization_key = eco_sphere_post_6_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 7 } }
+		}
+		localization_key = eco_sphere_post_7_tt
+	}
+	text = {
+		trigger = {
+			THIS = { check_variable = { eco_sphere_post = 8 } }
+		}
+		localization_key = eco_sphere_post_8_tt
+	}
+	text = { localization_key = eco_sphere_post_nomal_tt }
+}

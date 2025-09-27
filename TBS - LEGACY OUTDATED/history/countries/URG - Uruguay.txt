@@ -1,0 +1,30 @@
+﻿capital = 300
+#oob = "EMPTY"
+set_cosmetic_tag = URG_oriental_republic
+set_starting_values = yes
+recruit_character = URG_gerardo_cuesta
+recruit_character = URG_jorge_pacheco_areco
+set_convoys = 20
+add_ideas = {
+	
+}
+set_politics = {
+	ruling_party = gradual_socialism
+	last_election = "1972.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	neo_communism = 21
+	totalitarian_socialism = 20
+	gradual_socialism = 35
+	social_democracy = 3
+	liberal_democracy = 8
+	conservatism = 7
+	authoritarian_democracy = 6
+	paternal_despotism = 0
+	national_corporatism = 0
+	national_socialism = 0
+	ultra_nationalism = 0
+	reactionism = 0
+}

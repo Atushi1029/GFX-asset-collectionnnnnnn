@@ -1,0 +1,60 @@
+characters = {
+	BAS_eric_williams = {
+		name = BAS_eric_williams
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_BAS_Eric_Williams"
+				small = "GFX_idea_BAS_eric_williams"
+			}
+			army = {
+				large = "GFX_Portrait_BAS_Eric_Williams"
+				small = "GFX_idea_BAS_eric_williams"
+			}
+			navy = {
+				large = "GFX_Portrait_BAS_Eric_Williams"
+				small = "GFX_idea_BAS_eric_williams"
+			}
+		}
+	}
+	BAS_errol_barrow = {
+		name = BAS_errol_barrow
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_BAS_Errol_Barrow"
+				small = "GFX_idea_BAS_errol_barrow"
+			}
+			army = {
+				large = "GFX_Portrait_BAS_Errol_Barrow"
+				small = "GFX_idea_BAS_errol_barrow"
+			}
+			navy = {
+				large = "GFX_Portrait_BAS_Errol_Barrow"
+				small = "GFX_idea_BAS_errol_barrow"
+			}
+		}
+	}
+	BAS_michael_manley = {
+		name = JAM_michael_manley
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_JAM_Michael_Manley"
+				small = "GFX_idea_JAM_michael_manley"
+			}
+			army = {
+				large = "GFX_Portrait_JAM_Michael_Manley"
+				small = "GFX_idea_JAM_michael_manley"
+			}
+			navy = {
+				large = "GFX_Portrait_JAM_Michael_Manley"
+				small = "GFX_idea_JAM_michael_manley"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_MICHAEL_MANLEY_DESC"
+			ideology = social_democracy_ideology
+			expire = "1997.3.6.1"
+			id = -1
+			traits = {}
+		}
+	}
+}
